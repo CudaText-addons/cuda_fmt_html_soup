@@ -1,0 +1,11 @@
+[info]
+title=Formatter for HTML: Soup
+desc=Formats HTML code using Beautiful Soup library
+type=cudatext-plugin
+subdir=cuda_fmt_html_soup
+homepage=https://github.com/CudaText-addons/cuda_fmt_html_soup
+
+[fmt1]
+caption=HTML Soup
+method=do_format
+lexers=regex:HTML.*
