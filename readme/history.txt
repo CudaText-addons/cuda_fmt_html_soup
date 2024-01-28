@@ -1,3 +1,5 @@
+2024.01.28
++ add: update BS4 to 4.12 (by @ildarkhasanshin)
 
 2019.07.25
 initial version
