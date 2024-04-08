@@ -1,3 +1,7 @@
+2024.04.08
++ add: support lexer XML
++ add: apply current editor's tabulation-size and tabs-as-spaces
+
 2024.01.28
 + add: update BS4 to 4.12 (by @ildarkhasanshin)
 
